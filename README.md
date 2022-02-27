@@ -20,7 +20,7 @@
 ### Connect with me:
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
+[![website](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg)](https://www.linkedin.com/in/jeffreygrospe/)
 
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
