@@ -21,8 +21,8 @@
 
 
 
-<div style="background-color:#0A66C2">[<img  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />]( https://www.linkedin.com/in/jeffreygrospe/)</div>
 
+[<img background-color="#0A66C2" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />]( https://www.linkedin.com/in/jeffreygrospe/)
 
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
