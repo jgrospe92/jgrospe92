@@ -18,22 +18,14 @@
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
-
-
-
-
+<!-- Icons  -->
 [<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />]( https://www.linkedin.com/in/jeffreygrospe/)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />]( https://www.instagram.com)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />]( https://twitter.com/jeffrey_grospe)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
