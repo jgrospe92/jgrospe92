@@ -22,7 +22,7 @@
 
 
 
-[<img background-color="#0A66C2" height="32" width="32" src="https://simpleicons.now.sh/linkedin/#0A66C2" />]( https://www.linkedin.com/in/jeffreygrospe/)
+[<img background-color="#0A66C2" height="32" width="32" src="https://simpleicons.now.sh/linkedin/#FFFFFF" />]( https://www.linkedin.com/in/jeffreygrospe/)
 
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
