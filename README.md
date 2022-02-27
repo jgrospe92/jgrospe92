@@ -21,15 +21,18 @@
 <!-- Icons  -->
 [<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />][linkedin]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />]( https://www.instagram.com)
+[<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />][instagram]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/unsplash/fff" />]( https://unsplash.com/@jgrospe)
+[<img height="32" width="32" src="https://simpleicons.now.sh/unsplash/fff" />][unsplash]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/facebook/fff" />]( https://www.facebook.com/jeffrey.grospe)
+[<img height="32" width="32" src="https://simpleicons.now.sh/facebook/fff" />][facebook]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />]( https://twitter.com/jeffrey_grospe)
+[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />][twitter]
 
-[linkedin]: https://www.linkedin.com/in/jeffreygrospe/
+
+
+
+
 
 
 
@@ -108,16 +111,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!-- links  -->
+[linkedin]: https://www.linkedin.com/in/jeffreygrospe/
+[instagram]: https://www.instagram.com
+[unsplash]: https://unsplash.com/@jgrospe
+[facebook]: https://www.facebook.com/jeffrey.grospe
+[twitter]: https://twitter.com/jeffrey_grospe
 
 <!---
 jgrospe92/jgrospe92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
