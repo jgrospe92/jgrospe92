@@ -8,7 +8,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a 1st year Computer Student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Musician 🎸!!
+## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Musician 🎸!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently Algorithms and Data Structure 🤣
@@ -19,7 +19,7 @@
 
 ### Connect with me:
 <!-- Icons  -->
-[<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />]( https://www.linkedin.com/in/jeffreygrospe/)
+[<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />][linkedin]
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />]( https://www.instagram.com)
 &nbsp;&nbsp;
@@ -29,7 +29,7 @@
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />]( https://twitter.com/jeffrey_grospe)
 
-
+[linkedin]: https://www.linkedin.com/in/jeffreygrospe/
 
 
 
