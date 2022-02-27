@@ -22,11 +22,9 @@
 
 
 
-[<img background-color="#0A66C2" height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />]( https://www.linkedin.com/in/jeffreygrospe/)
-
+[<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />]( https://www.linkedin.com/in/jeffreygrospe/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />]( https://www.instagram.com)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
