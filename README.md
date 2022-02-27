@@ -23,8 +23,16 @@
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />]( https://www.instagram.com)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />]( https://twitter.com/jeffrey_grospe)
+[<img height="32" width="32" src="https://simpleicons.now.sh/unsplash/fff" />]( https://unsplash.com/@jgrospe)
 &nbsp;&nbsp;
+[<img height="32" width="32" src="https://simpleicons.now.sh/facebook/fff" />]( https://www.facebook.com/jeffrey.grospe)
+&nbsp;&nbsp;
+[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />]( https://twitter.com/jeffrey_grospe)
+
+
+
+
+
 
 
 ### Languages and Tools:
