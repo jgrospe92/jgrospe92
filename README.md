@@ -19,8 +19,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/LinkedIn.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" />
+
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
