@@ -19,7 +19,7 @@
 
 ### Connect with me:
 <!-- Icons  -->
-[<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" />][linkedin]
+[<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/fff" target="_blank"/>][linkedin]
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />][instagram]
 &nbsp;&nbsp;
