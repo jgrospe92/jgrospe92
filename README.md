@@ -1,21 +1,15 @@
 # Hey Welcome to my profile, My name is Jeffrey 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+<!-- Add status here -->
 
 
-## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Musician 🎸!!
+## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently Algorithms and Data Structure 🤣
+- 🌱 I’m currently learning Algorithms and Data Structure 🤣
 - 👯 I’m looking to contribute to an open source project
 - 🥅 2022 Goals: Land an Front-End Internship, Learn Unity and Contribute to an open source project
-- ⚡ Fun fact: I am a Fast learner and I love challenges.
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I actually enjoy coding 😊
 
 ### Connect with me:
 <!-- Icons  -->
@@ -31,13 +25,7 @@
 
 
 
-
-
-
-
-
-
-
+<!-- Separate languages and tools  -->
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
