@@ -25,7 +25,8 @@
 
 <!-- Separate languages and tools  -->
 ### Languages and Tools:
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />]
 
 <br />
 <br />
@@ -49,10 +50,8 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
