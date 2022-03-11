@@ -5,7 +5,7 @@
 
 ## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 Check out my latest Project: [project name][course]!
+- 🔭 I am looking for a Front End internship!
 - 🌱 I’m currently learning Algorithms and Data Structure. 🤣
 - 👯 I’m looking to contribute to an open source project this year.
 - 🥅 2022 Goals: Land an Front-End Internship, Learn Unity and Contribute to an open source project.
