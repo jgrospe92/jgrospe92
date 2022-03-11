@@ -23,9 +23,6 @@
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />][twitter]
 
-<br />
-<br />
-
 <!-- Separate languages and tools  -->
 ### Languages and Tools:
 
@@ -50,6 +47,7 @@
 <br />
 <br />
 
+
 ---
 
 
@@ -57,8 +55,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
