@@ -39,6 +39,14 @@
 
 ---
 
+
+<details>
+  <summary>:zap: Language Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrospe92)](https://github.com/jgrospe92/github-readme-stats)
+
+</details>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -55,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula&count_private=true" />
 
 </details>
 
