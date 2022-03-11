@@ -4,12 +4,12 @@
 
 
 ## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Algorithms and Data Structure 🤣
-- 👯 I’m looking to contribute to an open source project
-- 🥅 2022 Goals: Land an Front-End Internship, Learn Unity and Contribute to an open source project
-- ⚡ Fun fact: I actually enjoy coding 😊
+<!-- project name then the link to that project -->
+- 🔭 Check out my latest Project: [project name][course]!
+- 🌱 I’m currently learning Algorithms and Data Structure. 🤣
+- 👯 I’m looking to contribute to an open source project this year.
+- 🥅 2022 Goals: Land an Front-End Internship, Learn Unity and Contribute to an open source project.
+- ⚡ Fun fact: I am also a Gamer, add me on League of Legends: lMyNameIsJeff 😊 
 
 ### Connect with me:
 <!-- Icons  -->
@@ -23,7 +23,8 @@
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />][twitter]
 
-
+<br />
+<br />
 
 <!-- Separate languages and tools  -->
 ### Languages and Tools:
@@ -51,19 +52,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
-- [What the Heck is ERC!? Ethereum Blockchain](https://www.youtube.com/watch?v=hf-Qk0Hx00E)
-- [STACKr News Weekly: BIG Next.js Update!, ERC Contracts Explained, Kubernetes What??](https://www.youtube.com/watch?v=PaSCBCWtZnE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
 
