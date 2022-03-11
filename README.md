@@ -51,6 +51,11 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/jgrospe92/Street-Photography/pull/1) in [jgrospe92/Street-Photography](https://github.com/jgrospe92/Street-Photography)
+2. 💪 Opened PR [#1](https://github.com/jgrospe92/Street-Photography/pull/1) in [jgrospe92/Street-Photography](https://github.com/jgrospe92/Street-Photography)
+3. 🎉 Merged PR [#15](https://github.com/jgrospe92/Department_with_GUI/pull/15) in [jgrospe92/Department_with_GUI](https://github.com/jgrospe92/Department_with_GUI)
+4. 💪 Opened PR [#15](https://github.com/jgrospe92/Department_with_GUI/pull/15) in [jgrospe92/Department_with_GUI](https://github.com/jgrospe92/Department_with_GUI)
+5. 🎉 Merged PR [#14](https://github.com/jgrospe92/Department_with_GUI/pull/14) in [jgrospe92/Department_with_GUI](https://github.com/jgrospe92/Department_with_GUI)
 <!--END_SECTION:activity-->
 </details>
 
