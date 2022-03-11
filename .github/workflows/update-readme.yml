@@ -1,14 +1,16 @@
-name: Github - Activity - Readme
+name: GitHub - Activity - Readme
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * 0' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      -  uses: actions/checkout@v2
-      -  uses: jamesgeorge007/github-activity-readme@master
-         env:
-            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
