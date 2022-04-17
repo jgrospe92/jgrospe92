@@ -63,11 +63,11 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jgrospe92/2dGameJam/pull/1) in [jgrospe92/2dGameJam](https://github.com/jgrospe92/2dGameJam)
-2. 💪 Opened PR [#1](https://github.com/jgrospe92/2dGameJam/pull/1) in [jgrospe92/2dGameJam](https://github.com/jgrospe92/2dGameJam)
-3. 🎉 Merged PR [#1](https://github.com/jgrospe92/Street-Photography/pull/1) in [jgrospe92/Street-Photography](https://github.com/jgrospe92/Street-Photography)
-4. 💪 Opened PR [#1](https://github.com/jgrospe92/Street-Photography/pull/1) in [jgrospe92/Street-Photography](https://github.com/jgrospe92/Street-Photography)
-5. 🎉 Merged PR [#14](https://github.com/jgrospe92/Department_with_GUI/pull/14) in [jgrospe92/Department_with_GUI](https://github.com/jgrospe92/Department_with_GUI)
+1. 🎉 Merged PR [#1](https://github.com/jgrospe92/Unix-Online-Server/pull/1) in [jgrospe92/Unix-Online-Server](https://github.com/jgrospe92/Unix-Online-Server)
+2. 🗣 Commented on [#1](https://github.com/jgrospe92/Unix-Online-Server/issues/1) in [jgrospe92/Unix-Online-Server](https://github.com/jgrospe92/Unix-Online-Server)
+3. 🎉 Merged PR [#1](https://github.com/jgrospe92/2dGameJam/pull/1) in [jgrospe92/2dGameJam](https://github.com/jgrospe92/2dGameJam)
+4. 💪 Opened PR [#1](https://github.com/jgrospe92/2dGameJam/pull/1) in [jgrospe92/2dGameJam](https://github.com/jgrospe92/2dGameJam)
+5. 🎉 Merged PR [#1](https://github.com/jgrospe92/Street-Photography/pull/1) in [jgrospe92/Street-Photography](https://github.com/jgrospe92/Street-Photography)
 <!--END_SECTION:activity-->
 </details>
 
