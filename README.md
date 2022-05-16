@@ -5,10 +5,10 @@
 
 ## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 I'm actively looking for a Front End internship!
+- 🔭 I'm currently doing my Internship at AppDirect Montreal!
 - 🌱 I’m currently learning Algorithms and Data Structure.
 - 👯 I’m looking to contribute to an open source project this year.
-- 🥅 2022 Goals: Land a Front-End Internship, Learn Unity and Contribute to an open source project.
+- 🥅 2022 Goals: Learn Unity, Contribute to an open source project and produce more porjects.
 - ⚡ Fun fact: I am a huge Gamer, add me on League of Legends: lMyNameIsJeff 😊 
 
 ### Connect with me:
