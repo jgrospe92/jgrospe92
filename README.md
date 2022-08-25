@@ -4,9 +4,9 @@
 ## "*It's never too late to focus on your dreams*"
 
 
-## I'm a 1st year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
+## I'm a 2nd year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 I'm currently doing my Internship at AppDirect Montreal!
+- 🔭 I'm interested in learning python automation!
 - 🌱 I’m currently learning Algorithms and Data Structure.
 - 👯 I’m looking to contribute to an open source project this year.
 - 🥅 2022 Goals: Learn Unity, Particapte in an open source project, Be more productive and produce more projects
