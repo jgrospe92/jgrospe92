@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula&count_private=true" />
+  <img align="left" alt="jgrospe92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula&count_private=true" />
 
 </details>
 
