@@ -66,17 +66,6 @@
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SaqSaq815/App-Dev-Team-Project/pull/3) in [SaqSaq815/App-Dev-Team-Project](https://github.com/SaqSaq815/App-Dev-Team-Project)
-2. 🎉 Merged PR [#4](https://github.com/SaqSaq815/App-Dev-Team-Project/pull/4) in [SaqSaq815/App-Dev-Team-Project](https://github.com/SaqSaq815/App-Dev-Team-Project)
-3. 💪 Opened PR [#4](https://github.com/SaqSaq815/App-Dev-Team-Project/pull/4) in [SaqSaq815/App-Dev-Team-Project](https://github.com/SaqSaq815/App-Dev-Team-Project)
-4. 🎉 Merged PR [#2](https://github.com/SaqSaq815/App-Dev-Team-Project/pull/2) in [SaqSaq815/App-Dev-Team-Project](https://github.com/SaqSaq815/App-Dev-Team-Project)
-5. 💪 Opened PR [#3](https://github.com/SaqSaq815/App-Dev-Team-Project/pull/3) in [SaqSaq815/App-Dev-Team-Project](https://github.com/SaqSaq815/App-Dev-Team-Project)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="jgrospe92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula&count_private=true" />
