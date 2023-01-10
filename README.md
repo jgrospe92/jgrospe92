@@ -4,12 +4,12 @@
 ## "*Just trying to do better*"
 
 
-## I'm a 2nd year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
+## I'm a 3rd year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 I'm interested in learning python automation!
-- 🌱 I’m currently learning Php.
+- 🔭 I'm interested in learning AI programming!
+- 🌱 I’m currently MERN Stack.
 - 👯 I’m looking to contribute to an open source project this year.
-- 🥅 2022 Goals: Learn Unity, Particapte in an open source project, Be more productive and produce more projects
+- 🥅 2023 Goals: Learn Unity, Particapte in an open source project, Be more productive and produce more projects
 - ⚡ Fun fact: I am a huge Gamer, add me on League of Legends: lMyNameIsJeff 😊 
 
 ### Connect with me:
