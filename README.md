@@ -16,13 +16,13 @@
 <!-- Icons  -->
 [<img height="32" width="32" src="https://simpleicons.now.sh/linkedin/1977FF" target="_blank"/>][linkedin]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/instagram/fff" />][instagram]
+[<img height="32" width="32" src="https://simpleicons.now.sh/instagram/1977FF" />][instagram]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/unsplash/fff" />][unsplash]
+[<img height="32" width="32" src="https://simpleicons.now.sh/unsplash/1977FF" />][unsplash]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/facebook/fff" />][facebook]
+[<img height="32" width="32" src="https://simpleicons.now.sh/facebook/1977FF" />][facebook]
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/fff" />][twitter]
+[<img height="32" width="32" src="https://simpleicons.now.sh/twitter/1977FF" />][twitter]
 
 <!-- Separate languages and tools  -->
 ### Languages and Tools:
