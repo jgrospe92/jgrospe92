@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrospe92&langs_count=8&exclude_repo=2dGameJam)](https://github.com/jgrospe92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrospe92&langs_count=8&exclude_repo=2dGameJam,shattered-realms,Mr-X-Bot)](https://github.com/jgrospe92/github-readme-stats)
 
 </details>
 
