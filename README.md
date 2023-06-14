@@ -7,7 +7,7 @@
 ## I'm a 3rd year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
 - 🔭 I'm interested in learning AI programming!
-- 🌱 I’m currently learning React and Unity.
+- 🌱 I’m currently learning Angular and Unity.
 - 👯 I’m looking to contribute to an open source project this year and publish one game.
 - 🥅 2023 Goals: Learn Unity, Particapte in an open source project, Be more productive and produce more projects
 - ⚡ Fun fact: I am a huge Gamer, add me on League of Legends: lMyNameIsJeff 😊 
