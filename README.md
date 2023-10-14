@@ -45,6 +45,11 @@
 <br />
 <br />
 
+### Ongoing Projects 💥
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrospe92&repo=pokedex-grid)](https://github.com/jgrospe92/pokedex-grid)
+
+
 ---
 
 ### 📕 Latest Blog Posts
