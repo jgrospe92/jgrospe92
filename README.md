@@ -47,7 +47,7 @@
 
 ### Ongoing Projects 💥
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrospe92&repo=pokedex-grid)](https://github.com/jgrospe92/pokedex-grid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrospe92&repo=pokedex-grid&theme=radical)](https://github.com/jgrospe92/pokedex-grid)
 
 
 ---
@@ -66,14 +66,14 @@
 <details>
   <summary>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrospe92&langs_count=8&exclude_repo=2dGameJam,shattered-realms,Mr-X-Bot,GameProgramming2Labs)](https://github.com/jgrospe92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgrospe92&langs_count=8&exclude_repo=2dGameJam,shattered-realms,Mr-X-Bot,GameProgramming2Labs&theme=radical)](https://github.com/jgrospe92/github-readme-stats)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="jgrospe92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=darcula&count_private=true" />
+  <img align="left" alt="jgrospe92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgrospe92&show_icons=true&hide_border=false&hide=stars,issues,contribs&theme=radical&count_private=true" />
 
 </details>
 
