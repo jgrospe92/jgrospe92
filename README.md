@@ -26,8 +26,8 @@
 
 <!-- Separate languages and tools  -->
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,py,php,bash,cs,jquery,dotnet,bootstrap,html,js,nodejs,mongodb,django,git&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,arduino,vscode,unity,stackoverflow,raspberrypi,postman,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,php,bash,cs,jquery,dotnet,bootstrap,html,js,nodejs,mongodb,django,git,visualstudio,arduino,vscode,unity,stackoverflow,raspberrypi,postman,linux&perline=6)](https://skillicons.dev)
+
 
 
 <br />
