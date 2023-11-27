@@ -33,6 +33,7 @@
 ### Ongoing Projects 💥
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrospe92&repo=pokedex-grid&theme=radical)](https://github.com/jgrospe92/pokedex-grid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgrospe92&repo=angular-zero-to-hero&theme=radical)](https://github.com/jgrospe92/angular-zero-to-hero)
 
 
 ---
