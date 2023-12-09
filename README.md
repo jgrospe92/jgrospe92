@@ -4,12 +4,13 @@
 ## "*Just trying to do better*"
 
 
-## I'm a 3rd year Computer Science student 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
+## I'm a Software Developer 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 I'm interested in learning AI programming!
+- 🔭 I'm interested in learning Machine Learning!
 - 🌱 I’m currently learning Angular and Unity.
 - 👯 I’m looking to contribute to an open source project this year and publish one game.
-- 🥅 2023 Goals: Learn Unity, Particapte in an open source project, Be more productive and produce more projects
+- 🥅 2024 Goals: Particapte in an open source project, Be more productive and produce more projects
+- 🔨 I practice KAIZEN which means continuous improvement
 - ⚡ Fun fact: I am a huge Gamer, add me on League of Legends: lMyNameIsJeff 😊 
 
 ### Connect with me:
