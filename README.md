@@ -6,7 +6,8 @@
 
 ## I'm a Software Developer 🧑🏽‍💻, a Photographer 📸, a Gamer 🎮 , a Snowboarder 🏂  ,and a Guitarist 🎸!!
 <!-- project name then the link to that project -->
-- 🔭 I'm interested in learning Machine Learning!
+- 🙋 I'm currently working as a software developer for Morgan Stanley
+- 🔭 I'm interested in learning AI & Machine Learning!
 - 🌱 I’m currently learning Angular and Unity.
 - 👯 I’m looking to contribute to an open source project this year and publish one game.
 - 🥅 2024 Goals: Particapte in an open source project, Be more productive and produce more projects
